@@ -1,0 +1,10 @@
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\bin\Debug\netcoreapp3.1\1.3.exe
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\bin\Debug\netcoreapp3.1\1.3.deps.json
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\bin\Debug\netcoreapp3.1\1.3.runtimeconfig.json
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\bin\Debug\netcoreapp3.1\1.3.runtimeconfig.dev.json
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\bin\Debug\netcoreapp3.1\1.3.dll
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\bin\Debug\netcoreapp3.1\1.3.pdb
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\obj\Debug\netcoreapp3.1\1.3.AssemblyInfoInputs.cache
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\obj\Debug\netcoreapp3.1\1.3.AssemblyInfo.cs
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\obj\Debug\netcoreapp3.1\1.3.dll
+C:\Users\VintorezzZ\source\repos\SkillboxHomeworkModule5\1.3\obj\Debug\netcoreapp3.1\1.3.pdb
